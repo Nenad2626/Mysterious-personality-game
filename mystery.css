@@ -1,0 +1,195 @@
+body  {
+
+
+
+}
+
+.just  {
+
+color: #146EB4;
+
+}
+
+button {
+
+margin-left: 130px;
+width: 150px;
+height: 30px;
+text-align: center;
+font-family: Verdana;
+font-size: 20px;
+background: #146EB4;
+color: #FFFFFF;
+display: inline-block;
+outline: none;
+
+}
+
+button:hover  {
+
+background: #FBBC05;
+
+}
+
+.question, .enigma, .answer, .timer  {
+
+visibility: hidden;
+
+}
+
+h1 {
+
+text-align: center;
+color: #FFFFFF;
+font-family: Verdana;
+
+}
+
+h2 {
+
+text-align: center;
+color: white;
+font-family: Verdana;
+
+}
+
+.myPolicy, .gamePolicy, .endingSalute  {
+
+
+	
+}
+
+.rulesExplanation1, .rulesExplanation2, .explanation {
+
+
+}
+
+.startingGame1, .startingGame2, .startingGame3, .startingGame4 {
+
+width: 1000px;
+height: 730px;
+border: 1px solid lightgray;
+margin-left: 130px;
+background: #146EB4;
+position: absolute;
+
+}
+
+.startingGame2, .startingGame3, .startingGame4  {
+
+visibility: hidden;
+
+}
+
+.startingGame1  {
+
+background: url(https://cdn.dribbble.com/users/256781/screenshots/2592912/woods.gif);
+background-size: cover;
+
+}
+
+
+.enigma  {
+
+width: 400px;
+height: 400px;
+border: 1px solid lightgray;
+border-radius: 5px;
+margin-left: 300px;
+
+}
+
+img  {
+
+width: 400px;
+height: 400px;
+position: absolute;
+
+}
+
+.answer  {
+
+margin-left: 325px;
+width: 330px;
+padding: 10px;
+text-align: center;
+font-family: Verdana;
+
+}
+
+.square  {
+
+width: 78px;
+height: 78px;
+position: relative;
+border: 1px solid deepskyblue;
+float: left;
+
+}
+
+.cube  {
+
+width: 55.1px;
+height: 55.1px;
+position: relative;
+border: 1px solid lightgray;
+float: left;
+
+}
+
+.end  {
+
+text-align: center;
+color: white;
+font-family: Verdana;
+font-size: 30px;
+position: absolute;
+visibility: hidden;
+
+}
+
+.color  {
+
+background: #FFFFFF;
+
+}
+
+.color1  {
+
+background: #FFFFFF;
+
+}
+
+.color2  {
+
+background: #FFFFFF;
+
+}
+
+
+.timer  {
+
+text-align: center;
+color: #FFFFFF;
+font-family: Verdana;
+font-size: 45px;
+
+}
+
+.clock {
+
+display: inline-block;
+font-family: Verdana;
+
+}
+
+.level {
+
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+font-family: Verdana;
+font-size: 30px;
+cursor: context-menu;
+
+}
